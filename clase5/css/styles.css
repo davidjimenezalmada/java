@@ -1,0 +1,37 @@
+body {
+  background-color: #FFFEFE;
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: 200px;
+}
+
+h1 {
+  color: #F9F3F5;
+  text-align: center;
+  border-style: solid;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: #09B832;
+  text-align: center; background-color: green;
+  opacity: 0.6;
+}
+h2{color: #452EF1;
+
+
+
+}
+p {
+  background-color: yellow;
+  border-style: dashed;
+}
+h1 {
+  background-color: #5353E9;
+}
+body {
+  background-image: url("http://elearningmasters.galileo.edu/wp-content/uploads/2018/05/01-1.jpg");
+  background-repeat: no-repeat;
+}
